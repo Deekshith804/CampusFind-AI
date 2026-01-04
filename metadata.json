@@ -1,0 +1,7 @@
+{
+  "name": "CampusFind AI",
+  "description": "A smart, AI-powered Lost and Found platform for university campuses. Features visual matching, automated tagging, and fuzzy search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
