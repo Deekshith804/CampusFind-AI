@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CampusFind-AI
 Developed an AI-assisted campus lost &amp; found system to address the lack of a centralized reporting mechanism in colleges. The platform allows students to upload details and images of lost or found items. Using image comparison techniques, the system suggests potential matches even when photos vary in angle or environment.
 =======
@@ -23,3 +24,6 @@ View your app in AI Studio: https://ai.studio/apps/drive/1qwjaUKROjd5pzcVPyj80-U
 3. Run the app:
    `npm run dev`
 >>>>>>> ed17de2 (Initial commit)
+=======
+# CampusFind-AI
+>>>>>>> 6d3964fcf69a4ed8003332e665be01ce4a24eda2
